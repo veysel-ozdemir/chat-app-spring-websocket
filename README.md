@@ -1,6 +1,5 @@
 # Real-Time Chat App | Spring - WebSocket
 
----
 ## Tech Stack
 ### Backend 
 - **Java** *(v21)*
@@ -14,7 +13,6 @@
 - **CSS**
 - **JavaScript**
 
----
 ## Shots In Action
 ### Landing Page
 ![](screenshots/landing-page.png)
@@ -23,6 +21,5 @@
 ### Users Entry / Exit The Chatroom 
 ![](screenshots/exits-and-entries.png)
 
----
 ## References
 A huge shout-out to [Bouali Ali](https://youtube.com/@BoualiAli) for providing [this](https://youtu.be/TywlS9iAZCM) comprehensive and educative tutorial. 
